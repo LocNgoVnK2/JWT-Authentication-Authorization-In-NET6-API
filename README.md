@@ -79,6 +79,4 @@ This repository contains tests for API security focusing on authentication and a
 3. Update the collection variables with your API credentials and endpoints.
 4. Run the collection in Postman.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
